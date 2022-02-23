@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Fuller's letter to the Right Honourable the Lord Mayor being an answer to a late scandalous pamphlet, intituled, Fuller's Plain proof of the true mother of the pretended Pr. of Wales, made out to be no proof, &amp;c. : with that part of His Majesty's declaration, relating to that imposture, publish'd in December, 1688.</title>
+            <title>Letter to the Right Honourable the Lord Mayor</title>
+            <author>Fuller, William, 1670-1717?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40700</idno>
+            <idno type="STC">Wing F2484</idno>
+            <idno type="STC">ESTC R21236</idno>
+            <idno type="EEBO-CITATION">12738221</idno>
+            <idno type="OCLC">ocm 12738221</idno>
+            <idno type="VID">93038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 693:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Fuller's letter to the Right Honourable the Lord Mayor being an answer to a late scandalous pamphlet, intituled, Fuller's Plain proof of the true mother of the pretended Pr. of Wales, made out to be no proof, &amp;c. : with that part of His Majesty's declaration, relating to that imposture, publish'd in December, 1688.</title>
+                  <title>Letter to the Right Honourable the Lord Mayor</title>
+                  <author>Fuller, William, 1670-1717?</author>
+               </titleStmt>
+               <extent>[4], 18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and to be sold by Eliz. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Fuller, William, 1670-1717? --  Plain proof of the true father and mother of the pretended Prince of Wales.</term>
+               <term>Grey, Mary.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93038:1"/>
+            <pb facs="tcp:93038:1"/>
+            <p>Mr. <hi>Fuller</hi>'s Letter To the Right Honourable the LORD MAYOR: BEING AN ANSWER To a Late <hi>Scandalous Pamphlet,</hi> INTITULED, Fuller'<hi>s Plain Proof of the True Mo<g ref="char:EOLhyphen"/>ther of the Pretended Pr. of</hi> Wales; <hi>Made out to be no Proof,</hi> &amp;c. With that Part of His <hi>Majeſty's Declaration,</hi> Relating to that IMPOSTURE, Publiſh'd in <hi>December,</hi> 1688.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author; and to be Sold by <hi>Eliz. Harris,</hi> at the <hi>Harrow</hi> in <hi>Little-Britain.</hi> 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:93038:2"/>
+            <pb facs="tcp:93038:2" rendition="simple:additions"/>
+            <head>THE PREFACE.</head>
+            <p>WHoever ſhall meet with this following Letter, I do aſſure them, it is the Contents of a Letter I carry'd to the preſent Lord Mayor; and foraſmuch as what is con<g ref="char:EOLhyphen"/>tain'd in my former Books, will be ſhort<g ref="char:EOLhyphen"/>ly made as apparent, as the Nature of the Subject can poſſibly afford, or be reaſonably required, by a ſufficient Number of Witneſſes, and a large Number of Letters, prov'd Authen<g ref="char:EOLhyphen"/>tick; I deſire all impartial Perſons to take Notice, That the true Copy of my laſt Book has been much abus'd by being printed only in part, in a ſingle Sheet, which had not the Te<g ref="char:EOLhyphen"/>ſtimony
+<pb facs="tcp:93038:3"/> of ſeveral material Paſſages, nor the Obſervations, which renders the Truth moſt apparent; ſo I have order'd the true Book, intituled, <hi>A Plain Proof of the True Father and Mother of the Pretended Prince of</hi> Wales, <hi>by ſeveral Let<g ref="char:EOLhyphen"/>ters,</hi> &amp;c. Printed for my ſelf, to be Sold with this Letter only by Mrs. <hi>Eliz. Harris,</hi> Bookſeller, at the <hi>Harrow,</hi> in <hi>Little-Britain:</hi> And my former Books, publiſh'd in 1696. are only truly to be had at Mrs. <hi>Ann Baldwin</hi>'s, in <hi>Warwick-Lane.</hi>
+            </p>
+            <closer>
+               <signed>W. F.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93038:3"/>
+            <head>Mr. <hi>Fuller</hi>'s Letter To the Right Honourable the Lord Mayor, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THERE having been late<g ref="char:EOLhyphen"/>ly ſpread abroad a moſt ſcurrilous and ſcanda<g ref="char:EOLhyphen"/>lous Pamphlet, intituled (<hi>Fuller</hi>'s <hi>Plain Proof of the True Mother of the Pretended Prince of</hi> Wales; <hi>made out to be no Proof:</hi>) I think my ſelf much obliged, in Duty to my pre<g ref="char:EOLhyphen"/>ſent King and Country, to make a ſhort Reply to the baſe Sugge<g ref="char:EOLhyphen"/>ſtions of that malicious Author
+<pb n="2" facs="tcp:93038:4"/> who makes bold groſly to reflect on the Government under a falſe Notion of a Well-wiſher to his Country, and a ſpecious Pretence of vindicating Truth (as he terms it) whereas his main Intention is to vindicate the Legitimacy of that horrid Impoſtor the Pretended Prince of <hi>Wales:</hi> For were this Gentleman, what he pretends to be, a Friend to Truth and Ho<g ref="char:EOLhyphen"/>neſty, or a Well-wiſher to the Pro<g ref="char:EOLhyphen"/>teſtant Religion, certain I am, he wou'd not take ſuch Pains to expoſe his Folly and ill Nature with worſe Breeding, by banter<g ref="char:EOLhyphen"/>ing Truth with ſcandalous Re<g ref="char:EOLhyphen"/>ports and forged Imaginations of his own inventing; like that moſt wicked lying Book, intituled, <hi>My Life,</hi> printed ſome Years ſince by <hi>A. Ropper,</hi> and writ by <hi>Elcanah
+<pb n="3" facs="tcp:93038:4"/> Settle,</hi> the latter of which has many times before Witneſs begg'd my Pardon for it, and own'd that the greateſt Part of that Book was the Invention of his and the Printer's Brain to get Money: And this Book is that Life of mine which this late ſcribling Author takes notice of, ſaying, I have read his Life too late to be in Love with his manner of Li<g ref="char:EOLhyphen"/>ving; and what he next charges me with, of a Deſign of getting Money from your Lordſhip for my Dedication, I do humbly aſ<g ref="char:EOLhyphen"/>ſure your Lordſhip is falſe; the only Ambition I had next to the Publick Service, was the Honour your Lordſhip's and your Wor<g ref="char:EOLhyphen"/>thy Brethren, the Right Wor<g ref="char:EOLhyphen"/>ſhipful, the Aldermen of this City would do me, in favouring
+<pb n="4" facs="tcp:93038:5"/> me with the Reading of my ſaid Book. And though the preſent Government has no Occaſion at this time to fear any Danger from that Pretended Prince or his high<g ref="char:EOLhyphen"/>ly bigoted Party; yet, ſurely, it cannot be amiſs to let the World know from whence that Impo<g ref="char:EOLhyphen"/>ſture ſprung: That this In<g ref="char:EOLhyphen"/>formation was no ſooner given, is an Inquiry eaſily enough re<g ref="char:EOLhyphen"/>ſolv'd by aſſerting the true Cauſe, which is our preſent Govern<g ref="char:EOLhyphen"/>ment's gracious Diſpoſition and Readineſs to paſs by the greateſt Affronts and Injuries, as our Great and Good King has ſo bravely done, even to the Admiration of his very Enemies. And in this Caſe, I am very ſure, His Ma<g ref="char:EOLhyphen"/>jeſty knew the Management of this Supoſititious Birth long be<g ref="char:EOLhyphen"/>fore I came into his Majeſty's Ser<g ref="char:EOLhyphen"/>vice,
+<pb n="5" facs="tcp:93038:5"/> and had both the Letters and Informations of a great ma<g ref="char:EOLhyphen"/>ny Perſons of Note, plainly diſ<g ref="char:EOLhyphen"/>covering the ſame, as witneſs His Majeſty's Declaration, when Prince of <hi>Orange,</hi> in <hi>December,</hi> 1688.</p>
+            <p>
+               <hi>But to Crown all, there are great and violent Preſumptions, inducing us to believe, that thoſe evil Coun<g ref="char:EOLhyphen"/>ſellors, in order to the carrying on of their ill Deſigns, and to the gaining to themſelves the more Time for the effecting of them, for the encouraging of their Complices, and for the diſ<g ref="char:EOLhyphen"/>couraging of all good Subjects, have publiſh'd, That the</hi> Queen <hi>hath brought forth a</hi> Son; <hi>though there have appear'd, both during the Queen's pretended Bigneſs, and in the Man<g ref="char:EOLhyphen"/>ner in which the Birth was managed,
+<pb n="6" facs="tcp:93038:6"/> ſo many juſt and viſible Grounds of Suſpicion, that not only we our ſelves, but all the good Subjects of this Kingdom, do vehemently ſuſpect, that the Pretended Prince of</hi> Wales <hi>was not born by the Queen. And it is notoriouſly known to all the World, that many both doubted of the Queen's Bigneſs, and of the Birth of the Child, and yet there was not any one Thing done to ſatisfie them, or to put an end to their Doubts.</hi>
+            </p>
+            <p>And ſeveral Perſons have been examined upon the ſame, as Cap<g ref="char:EOLhyphen"/>tain <hi>Wright</hi> and others, I former<g ref="char:EOLhyphen"/>ly mention'd, as is very well known to the<g ref="char:punc">▪</g> Greateſt Men at Court; which is ſo apparent, that no leſs than the Inſolent Aſſu<g ref="char:EOLhyphen"/>rance of a very ſcandalous No<g ref="char:EOLhyphen"/>ble—, or a moſt infamous
+<pb n="7" facs="tcp:93038:6"/> Non-juring Parſon (one of which we ſuſpect our late Author to be) could ſo openly dare preſume to aſſert, that there is no Proof but mine; whereas it is evident, that there is a greater Number of Witneſſes by far, to prove almoſt every Particular, which I have ſet down, than there was to prove the pretended Prince's Birth. And I hope it will not be long e're thoſe Witneſſes are call'd, that the World may ſee how much my Adverſaries are in the Wrong: But I ſhall beg your Lordſhip's Patience, whilſt I further anſwer briefly his chief Objections againſt my Teſtimony, and the Truth of the Letters.</p>
+            <p>As to the Firſt, He tries to in<g ref="char:EOLhyphen"/>vallidate my Aſſertions, by ſay<g ref="char:EOLhyphen"/>ing, I am a notorious Lyar, and
+<pb n="8" facs="tcp:93038:7"/> was diſcredited by the Houſe of Lords and Commons; whereas my Buſineſs was never yet in de<g ref="char:EOLhyphen"/>bate in the Houſe of Lords: And it is evident, that I never was Sentenc'd by them, nor my Teſti<g ref="char:EOLhyphen"/>mony refus'd: And as for the Diſpleaſure that I incurr'd from the Houſe of Commons, the Oc<g ref="char:EOLhyphen"/>caſion is manifeſtly known to have proceeded from a Stratagem con<g ref="char:EOLhyphen"/>triv'd at the Court of St. <hi>Germains,</hi> to work my Ruine, and was mana<g ref="char:EOLhyphen"/>ged by Col. <hi>Dalleval</hi> and Mr. <hi>Hays,</hi> Two Agents of that Court, who pretending to ſerve the preſent Government, eaſily prevail'd on the Immaturity of my Judgment, ſo that I fooliſhly engag'd to the Houſe of Commons for their Ap<g ref="char:EOLhyphen"/>pearance: And I have ſuffici<g ref="char:EOLhyphen"/>ently prov'd they came to <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="9" facs="tcp:93038:7"/> accordingly, and were in the Lobby of the Houſe of Commons, on <hi>Monday</hi> the 22d of <hi>Febr.</hi> 1692. at 9 a Clock in the Morning, and being call'd for a ſhort time after, were not to be found; tho' ſince it is demonſtrated by many Witneſſes how they got off to <hi>France,</hi> and continue there. And this is the true Cauſe of my lying under the Cenſure of the Houſe of Com<g ref="char:EOLhyphen"/>mons, for which I ſuffer'd, which has given the Enemies of the Go<g ref="char:EOLhyphen"/>vernment occaſion baſely to mag<g ref="char:EOLhyphen"/>nifie the Matter, and to make this Overſight of mine (occaſion'd meerly by want of cautionary Ad<g ref="char:EOLhyphen"/>vertency) appear as the higheſt Crime imaginable. But Thanks be to God, there is already land<g ref="char:EOLhyphen"/>ed, or hourly expected a Gentle<g ref="char:EOLhyphen"/>man from <hi>Holland,</hi> who ſerv'd in
+<pb n="10" facs="tcp:93038:8"/> the Court of St. <hi>Germains</hi> at that time, and was privy to the whole Matter; and I ſhall ſpeedily con<g ref="char:EOLhyphen"/>vince the World, how far I was from endeavouring to impoſe any Falſities on the Government; nor did I ever in my Life make Oath againſt Perſon or Perſons, who was not fairly convicted, and af<g ref="char:EOLhyphen"/>terwards of his, or their own ac<g ref="char:EOLhyphen"/>cord, did frankly confeſs all that I alledg'd againſt them to be truth. And to prove this my Aſſertion, I do humbly appeal to the King's moſt Excellent Majeſty, to the Lords and others of His Majeſty's moſt honourable Privy-Council, and the Judges of this Land, who ſat in the Courts where my Teſtimony was given. And if what I affirm in my own behalf be not really and ſubſtantially
+<pb n="11" facs="tcp:93038:8"/> true, I deſire to be puniſh'd with the uttermoſt Severity imagina<g ref="char:EOLhyphen"/>ble. Only thus much I do own, that after the Delivery of my own poſitive Information to the Houſe of Commons, upon my being a third time call'd in, I did deliver a Liſt of Names of ſeveral Great Perſons, which I took from a pretended Addreſs at St. <hi>Germains,</hi> as I had it from the late Queen's own Hand; but I never did di<g ref="char:EOLhyphen"/>rectly, nor indirectly charge any of thoſe Noble Perſons or others with the Knowledge of, or the Signing of the ſaid Addreſs: For I do ſolemnly declare before God and Man, that I do believe that Addreſs was forged in <hi>England</hi> by Mr. <hi>Aſhton,</hi> and two or three more of the late King's Friends, and ſent into <hi>France,</hi> in order to
+<pb n="12" facs="tcp:93038:9"/> impoſe on the <hi>French</hi> Court, by endeavouring to make their In<g ref="char:EOLhyphen"/>tereſt in <hi>England</hi> ſeem much Greater than it was (as thro' God's great Mercy) Experience has ſhewn them.</p>
+            <p>But to return to our unknown Author, he charges me next with Forgery, and would inſinuate as if thoſe Letters were of my own Invention; but, to his Confuſion be it known, the Originals are yet in the Hands of the Govern<g ref="char:EOLhyphen"/>ment, and above 200 more, which will be ſuddenly expoſed alſo, and the greateſt Part of them I never ſaw until after they had been in the King's and the late Queen's (of ever bleſſed Memory) Cuſtody ſome time, nor did I, to my Knowledge, ever know or ſee the Gentlemen that ſent them
+<pb n="13" facs="tcp:93038:9"/> to their Majeſties: And as for their being truly writ by the late King <hi>James</hi> his Queen and Mi<g ref="char:EOLhyphen"/>niſters of State, I dare affirm to all the World, that there is not a more infallible Judge, nor do they better know their own Wri<g ref="char:EOLhyphen"/>ting, than his preſent Majeſty does; ſo that he has no need of Forgery, or any other baſe Stra<g ref="char:EOLhyphen"/>tagems (as uſed in the late Reign) to mantain his Truth and Glorious Cauſe, neither is it poſſible to de<g ref="char:EOLhyphen"/>ceive His Majeſty's Judgment in ſuch Matters. And as for that Letter of Mr. <hi>Carrell</hi>'s, which our Author takes moſt Notice of, that is ſtill in being with the reſt, and was in the Hands of the Govern<g ref="char:EOLhyphen"/>ment ſome time before the King ever ſaw my Information, and was ſent by Perſons of Honour
+<pb n="14" facs="tcp:93038:10"/> that took it out of the Dutcheſs of <hi>Tyrconnell</hi>'s Trunk, as is plain<g ref="char:EOLhyphen"/>ly proved beyond any Pretence or Queſtion. As for my being guilty of Forgery, I am verily perſuaded, that every one that converſes with me, and with humble Submiſſion I may ſay, what ſeveral Miniſters of State have obſerv'd, that I could neither alter my Hand-Writing, nor ſpell tolerable <hi>Engliſh,</hi> ſuch a Blockhead I freely own my ſelf: And for what he ſuſpects, that I put the Letters into the D. of <hi>Tyr<g ref="char:EOLhyphen"/>connel</hi>'s Trunk, it muſt needs be falſe; for I was at that Time in <hi>England,</hi> it being not many Days after Mr. <hi>Crone</hi>'s Tryal; that the ſaid Letters were taken out of the Trunk in a Day or two af<g ref="char:EOLhyphen"/>ter the Fight of the <hi>Boyne.</hi> But this Gentleman cannot pretend
+<pb n="15" facs="tcp:93038:10"/> to diſprove me; and as he will ſay ſomething to oblige his chari<g ref="char:EOLhyphen"/>table Benefactors the <hi>Jacobites,</hi> I can eaſily forgive his ſcandalous Aſpertions fo far as they extend only to my own Perſonal Con<g ref="char:EOLhyphen"/>cern; for I am as ready to confeſs and forſake my unhappy Folly in the Immature Management of my private Concerns, as he is to ac<g ref="char:EOLhyphen"/>cuſe me. And as I have ſerved the Government, which this Au<g ref="char:EOLhyphen"/>thor (though ſaucily) cannot but own, by reaſon one of the beſt and worthieſt of Men His Grace the Duke of <hi>Shrewsbury</hi> has certified it, and the moſt intelligible Part of the Nation knows it; ſo I will never endeavour, either publick<g ref="char:EOLhyphen"/>ly or privately, to impoſe any Un<g ref="char:EOLhyphen"/>truths on any Man; and how<g ref="char:EOLhyphen"/>ever he ridicules my Depoſitions,
+<pb n="16" facs="tcp:93038:11"/> I am ready to make Oath, that all I have affirm'd in my late Book, intituled (<hi>A Plain Proof of the True Father and Mother of the Pretended Prince of</hi> Wales, <hi>&amp;c.</hi>) to the beſt of my Knowledge, is Truth; and I declare alſo, that I will freely of<g ref="char:EOLhyphen"/>fer my ſelf to the ſevereſt Death that can be invented, provided I prove not the Contents of the ſaid Book to be Truth by many Wit<g ref="char:EOLhyphen"/>neſſes, whenever the great Wiſ<g ref="char:EOLhyphen"/>dom of the Nation thinks fit to require it, and more ſure can<g ref="char:EOLhyphen"/>not be deſired.</p>
+            <p>This Author is not only con<g ref="char:EOLhyphen"/>tent to invalidate me, but he baſe<g ref="char:EOLhyphen"/>ly reflects on Two Gentlemen in <hi>Ireland,</hi> of noble Families, and known Honour and Integrity; as alſo on their Ladies, who are by all eſteem'd Ladies of unblemiſh'd
+<pb n="17" facs="tcp:93038:11"/> Reputation; on theſe, I ſay, he, without any Ground, caſts his in<g ref="char:EOLhyphen"/>ſolent Suggeſtions, by reaſon they honeſtly atteſt what they know concerning that Part of the Ma<g ref="char:EOLhyphen"/>nagement of this Impoſture, which was manag'd in <hi>Ireland.</hi> I won<g ref="char:EOLhyphen"/>der much he does not (if his Printers dare put it to the Preſs) invent ſome new Aſperſions a<g ref="char:EOLhyphen"/>gainſt the King and his Mini<g ref="char:EOLhyphen"/>ſters, which, if <hi>I</hi> am not miſin<g ref="char:EOLhyphen"/>formed, is no new thing either to the ſaid Author, his Printer <hi>B—ll,</hi> the Bookſeller in <hi>Fleet<g ref="char:EOLhyphen"/>ſtreet,</hi> and the Publiſher.</p>
+            <p>
+               <hi>I</hi> humbly beg your Lordſhip's Pardon for detaining you ſo long, which <hi>I</hi> have done to convince the World, that what <hi>I</hi> have dedica<g ref="char:EOLhyphen"/>ted to your Lordſhip is worthy your taking notice of; and as that
+<pb n="18" facs="tcp:93038:12"/> ſcandalous Pamphlet againſt the Government and my ſelf, is pub<g ref="char:EOLhyphen"/>liſh'd by Mr. <hi>Nutt,</hi> and printed by the moſt famous Jacobite Printer of the City, <hi>I</hi> wiſh them no o<g ref="char:EOLhyphen"/>ther Puniſhment but the true Mark of what they are. <hi>I</hi> am,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt Humble Servant,</signed>
+               <dateline>
+                  <date>Octob. 19, 1700.</date>
+               </dateline>
+               <signed>W. Fuller.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>BEfore and ſince my publiſhing the laſt Book, I have had ſeveral Let<g ref="char:EOLhyphen"/>ters ſent me from unknown Hands, warn<g ref="char:EOLhyphen"/>ing me to deſiſt from this Subject, threat<g ref="char:EOLhyphen"/>ning a ſevere Puniſhment that ſhall other<g ref="char:EOLhyphen"/>wiſe ſpeedily fall on me: And tho' I little
+<pb facs="tcp:93038:12"/> regard them, yet I cannot omit taking No<g ref="char:EOLhyphen"/>tice of a Letter ſent, as we have ſeveral Reaſons to believe, from the Author I have been juſt now anſwering, to Mrs. <hi>Snow<g ref="char:EOLhyphen"/>den,</hi> who prints the <hi>Flying-Poſt,</hi> upon her Advertiſement of my Book in the ſaid News-Paper, which put the poor Wo<g ref="char:EOLhyphen"/>man into no ſmall Fright; and the other News-Mungers were fearful to mention my ſaid Book, for fear of being thought <hi>Williamites,</hi> or as they frankly own'd, to diſoblige the <hi>Jacobites.</hi> The Letter is as olloweth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mrs. Snowden,</salute>
+                  </opener>
+                  <p>YO<g ref="char:V">Ʋ</g> may aſſure your ſelf to be very well whipp'd, if not hang'd, between this and <hi>May</hi> next, for your great Care in inſerting the Advertiſement concern<g ref="char:EOLhyphen"/>ing His Royal Highneſs the Prince of <hi>Wales;</hi> and this is only that you may timely perſwade the Raſcal <hi>Fuller</hi> to be ready to ſtand your Friend. I pitty you, that at this Time, when neither Knave nor Fool doubt the Birth of His Royal Highneſs, you and your Rogues ſhould; and I will now certifie you, that your unfortunate Rogues could never have taken ſuch a Time to abuſe that Prince, that not
+<pb facs="tcp:93038:13"/> only all the Princes in <hi>Europe</hi> acknowledge Legitimate, but our Great Council never doubted it; for if they had, it would be a Thing of great Moment. Can you or your Fools and Rogues charge the Parliament with ſo great Neglect in ſo great Points? And you may know <hi>Fuller,</hi> a perjured Rogue, who expects Bread from abuſing the Weakeſt; it is too late, the Eyes of the People are open, and ſee better than that poor Wretch your Husband did, when he ſwore <hi>Anderton</hi>'s Letter to the Murder of an honeſt Man, when afterwards it appear'd to be Mr. <hi>Newbolt</hi> and Mr. <hi>But<g ref="char:EOLhyphen"/>ler</hi> that printed the Paper. Lament your poor loſt Husband and encourage no ſuch Villany; and conſider 'tis forbidden to ſlander your Neighbour, much more your Prince. You may with your perjur'd Rogues expect your Re<g ref="char:EOLhyphen"/>ward here. After God forgive</p>
+                  <closer>
+                     <dateline>
+                        <date>Oct. 8. 1700.</date>
+                     </dateline>
+                     <signed>Your Monitor, <hi>D. B.—</hi>
+                     </signed> I am in Haſte, for I am ſending your Ad<g ref="char:EOLhyphen"/>vertiſement to His Royal Highneſs his Father and Mother, as well as to his Highneſs, who will with Laughter pronounce your Reward.</closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93038:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
